@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **having an internship**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/INFOTEC/Desktop/Developer-master/Developer-master/index.html#](file:///C:/Users/INFOTEC/Desktop/Developer-master/Developer-master/index.html#)
-
 - 📫 How to reach me **eyarayes@protonmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aya-rais/](https://www.linkedin.com/in/aya-rais/)
