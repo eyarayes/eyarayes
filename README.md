@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&lines=WELCOME)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Eya Rayes</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=2DE5F7&center=true&vCenter=true&multiline=true&lines=WELCOME;Hi+%F0%9F%91%8B%2C+I'm+Eya+Rayes;%5B!%5BTyping+SVG%5D(https%3A%2F%2Freadme-typing-svg.herokuapp.com%3Fsize%3D50%26color%3DF74DE8%26center%3Dtrue%26vCenter%3Dtrue%26lines%3DDevops%2BEngineering%2Bstudent%2Bfrom%2BTunisia)%5D(https%3A%2F%2Fgit.io%2Ftyping-svg))](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyarayes&label=Profile%20views&color=0e75b6&style=flat" alt="eyarayes" /> </p>
 
