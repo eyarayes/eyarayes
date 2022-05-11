@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=WELCOME)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Eya Rayes</h1>
 <h3 align="center">Devops Engineering student from Tunisia</h3>
 
