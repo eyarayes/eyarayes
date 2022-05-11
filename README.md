@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=2DE5F7&center=true&vCenter=true&multiline=true&lines=WELCOME;Hi+%F0%9F%91%8B%2C+I'm+Eya+Rayes;Devops+Engineering+Student+From+TUNISIA)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyarayes&label=Profile%20views&color=0e75b6&style=flat" alt="eyarayes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyarayes" alt="eyarayes" /></a> </p>
