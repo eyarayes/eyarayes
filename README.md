@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react, Vue.js**
 
-- 🤝 I’m looking for help with **having an internship**
+- 🤝 I’m looking for help with ****
 
 - 📫 How to reach me **eyarayes@protonmail.com**
 
