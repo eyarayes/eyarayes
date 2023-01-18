@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aya-rais/](https://www.linkedin.com/in/aya-rais/)
 
-- ⚡ Fun fact **I am skipping my exams**
+- ⚡ Fun fact **I can turn coffee x technoMusic into CODES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
