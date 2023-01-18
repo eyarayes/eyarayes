@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyarayes" alt="eyarayes" /></a> </p>
 
-- 🔭 I’m currently working on **Vtiger CRM**
+- 🔭 I’m currently working on **My end of studies project**
 
-- 🌱 I’m currently learning **react, Vue.js**
+- 🌱 I’m currently learning **Angular , SpringBoot**
 
 - 🤝 I’m looking for help with ****
 
