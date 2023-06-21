@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=42&color=0B3CF7&center=true&vCenter=true&lines=WELCOME)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Eya RAYES</h1>
-<h3 align="center">SOFTWARE Engineering Student From TUNISIA</h3>
+<h3 align="center">SOFTWARE Engineer From TUNISIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyarayes&label=Profile%20views&color=0e75b6&style=flat" alt="eyarayes" /> </p>
 
