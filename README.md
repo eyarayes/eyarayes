@@ -6,11 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyarayes" alt="eyarayes" /></a> </p>
 
-// - 🔭 I’m currently working on ****
-
-- 🌱 I’m currently learning **Angular , SpringBoot**
-
-- 🤝 I’m looking for help with ****
   
 - 📫 How to reach me **eyarayes@protonmail.com**
 
